@@ -1120,3 +1120,10 @@ main{
         font-size: 30px;
     }
 }
+
+@media screen and (max-width: 380px){
+    
+    .skill_body_child_content ul li{
+        margin-left: 10px;
+    }
+}
